@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![logo](https://github.com/imranhss/imranhss/blob/main/github-contribution-grid-snake-dark.svg)
+
 <h1 align="center">Hi 👋, I'm Sadly Ahamed</h1>
 <h3 align="center">Java virtuoso crafting elegant, efficient solutions through innovative code architecture and passionate problem-solving, driving forward the boundaries of possibility.thusiast | Code Architect</h3>
 
